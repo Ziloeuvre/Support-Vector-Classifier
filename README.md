@@ -1,15 +1,15 @@
-Exploratory Data Analysis (EDA) on Heart Dataset and Usage of SVC Model for Heart Disease Prediction
-Overview
-This repository contains code and documentation for performing Exploratory Data Analysis (EDA) on a heart disease dataset and utilizing a Support Vector Classifier (SVC) model to predict the presence of heart disease.
+### Data Analysis (EDA) on Heart Dataset and Usage of SVC Model for Heart Disease Prediction
+##Overview
+This repository contains code and documentation for performing Exploratory Data Analysis (EDA) on a heart disease dataset and utilizing pandas and a Support Vector Classifier (SVC) model to predict the presence of heart disease.
 
 The dataset used for this analysis contains various attributes related to heart health, such as age, sex, chest pain type, resting blood pressure, cholesterol levels, and more.
 
-Contents
-heart.csv: The dataset used for analysis.
-heart_eda.ipynb: Jupyter Notebook containing the EDA process.
+##Contents
+heart.csv: The dataset containing numerical and categorical data used for analysis.
+heart_eda.ipynb: Jupyter Notebook containing the EDA process and Support Vector Classifier model for classification task 
 heart_prediction.ipynb: Jupyter Notebook demonstrating the usage of SVC model for heart disease prediction.
 README.md: Documentation providing an overview and usage instructions.
-Exploratory Data Analysis (EDA)
+##Exploratory Data Analysis (EDA)
 The EDA process involves:
 
 Loading the dataset.
